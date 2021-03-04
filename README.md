@@ -1,4 +1,4 @@
-#Sorting Algorithms Visualizer
+# Sorting Algorithms Visualizer
 
 Built React application for visualizing sorting algorithms such as: Bubble Sort, Quick Sort, Merge Sort.
 Technologies used: React, JavaScript
