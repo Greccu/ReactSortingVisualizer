@@ -6,4 +6,4 @@ Built React application for visualizing sorting algorithms such as: Bubble Sort,
 
 https://greccu.github.io/ReactSortingVisualizer/
 
-![ezgif-3-c24b5c42ed4d](https://user-images.githubusercontent.com/56735903/110000731-4b406600-7d1c-11eb-9ce2-0c4fe75a5145.gif)
+![ezgif-3-31e96e9b1aff](https://user-images.githubusercontent.com/56735903/110002412-04537000-7d1e-11eb-8161-9430fd6b42f9.gif)
